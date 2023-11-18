@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "banking-management-system",
+			"path": "../../vscode-workspace/banking-management-system"
+		}
+	],
+	"settings": {}
+}
